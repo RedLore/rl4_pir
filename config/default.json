@@ -1,0 +1,12 @@
+{
+    "mqtt": {
+        "host": "yourhost.com",
+        "port": 8883,
+        "username": "username",
+        "password": "password"
+    },
+    "gateway": {
+        "id": "gatewayID",
+        "sink": "sinkName"
+    }
+}
