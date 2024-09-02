@@ -1,0 +1,5 @@
+# How to Run
+1. Clone Repository
+2. npm install (to install the required modules)
+3. Add correct settings in config/default.json
+4. node ingestHeartbeat.js
